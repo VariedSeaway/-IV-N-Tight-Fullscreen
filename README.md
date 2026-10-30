@@ -2,7 +2,7 @@
 Fullscreen Tampermonkey scripts for DMM game  "IV-N Tight"
 # IV-N Tight Fullscreen
 
-English | [繁體中文](README.zh-trad.md) | [日本語](README.ja.md)
+[English](README.md) | [中文](README.ZH.md) | [繁体中文](README.zh-trad.md) | [日本语](README.ja.md)
 
 A Tampermonkey userscript that adds fullscreen mode to the DMM version of "IV-N Tight".
 
