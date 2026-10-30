@@ -1,6 +1,6 @@
 # IV-N Tight Fullscreen
 
-[English](README.md) | 繁體中文 | [日本語](README.ja.md)
+[English](README.md) | [中文](README.ZH.md) | [繁体中文](README.zh-trad.md) | [日本语](README.ja.md)
 
 為 DMM 版《イヴンタイト》加上全螢幕功能的 Tampermonkey 腳本。
 
