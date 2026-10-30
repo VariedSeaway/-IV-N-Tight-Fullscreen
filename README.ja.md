@@ -1,6 +1,6 @@
 # IV-N Tight Fullscreen
 
-[English](README.md) | [中文](README.ZH.md) | [繁体中文](README.zh-trad.md) | [日本语](README.ja.md)
+[English](README.md) | [中文](README.ZH.md) | [繁体中文](README.zh-trad.md) | [日本語](README.ja.md)
 
 DMM版『イヴンタイト』にフルスクリーン機能を追加する Tampermonkey 用ユーザースクリプトです。
 
