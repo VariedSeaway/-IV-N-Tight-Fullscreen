@@ -17,6 +17,9 @@ A Tampermonkey userscript that adds fullscreen mode to the DMM version of "IV-N 
 2. Open the `.user.js` file in this repository and click Raw. Tampermonkey will show an install page.
 3. Click "Install".
 
+or
+Copy and paste into Tampermonkey custom script, and then save.
+
 ## Usage
 
 1. Open the game page. A purple "⛶ 全螢幕" button appears at the top right.
